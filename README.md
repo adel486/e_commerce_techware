@@ -1,16 +1,25 @@
-# e_commerce_techware
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# E-Commerce App - Flutter
+ 
+ This is a simple e-commerce app built with Flutter that allows users to browse products, search, and view details. The project fetches data from an API and manages state using Provider.
+ 
+ ##  Tech Stack
+ - Flutter
+ - Dart
+ - Provider (State Management)
+ - REST API (DummyJSON)
+ 
+ ##  Features
+ - Product listing with images and details
+ - Search functionality with API filtering
+ - Product details screen with dynamic content
+ - State management using Provider
+ 
+ 
+ ## **Clone the Repository**  
+    ```sh
+    git clone https://github.com/yourusername/repository-name.git
+    cd repository-name
+ 
+ ##  Contact
+ - Email: adelabdulla486@gmail.com
+ - phone number : 7594844757
