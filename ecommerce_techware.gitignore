@@ -1,0 +1,48 @@
+# Flutter/Dart-specific files
+.dart_tool/
+.buildlog/
+.packages
+.pub-cache/
+.pub/
+flutter_gen/
+
+# Dependency lock files
+pubspec.lock
+
+# Build output and compiled files
+build/
+*.apk
+*.ipa
+*.aab
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.iml
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Sensitive configuration files
+.env
+config.json
+firebase_options.dart
+
+# Android-specific
+android/key.properties
+android/app/keystore.jks
+
+# iOS-specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/.generated/
+xcuserdata/
